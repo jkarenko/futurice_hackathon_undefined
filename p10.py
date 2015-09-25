@@ -12,4 +12,6 @@ def stuff(km, g, f):
 		return result - 1
 	return result
 
-print stuff(10, 9, 1)
+print stuff(100, 40, 30)
+
+print stuff(10, 5, 1)
